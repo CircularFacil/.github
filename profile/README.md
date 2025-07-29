@@ -110,4 +110,4 @@ Entre em contato com os mantenedores para discussões mais aprofundadas ou dúvi
 
 ## 📄 Licença
 
-Este projeto está em desenvolvimento e em breve terá sua licença definida. Fique ligado para atualizações!
+Este projeto e todos os seus componentes estão sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
